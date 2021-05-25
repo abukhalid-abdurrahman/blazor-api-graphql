@@ -14,10 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd57c7ff-e560-4b6b-859a-e86bf8112a08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/Base64Converter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Base64Converter.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
@@ -28,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621918247143</updated>
-      <workItem from="1621918259419" duration="5018000" />
+      <workItem from="1621918259419" duration="5316000" />
     </task>
     <servers />
   </component>

@@ -82,6 +82,13 @@ using SampleBlazorDashboard.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\Base64Converter.razor"
+using System.Text;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/base64Converter")]
     public partial class Base64Converter : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -91,14 +98,16 @@ using SampleBlazorDashboard.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 22 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\Base64Converter.razor"
+#line 23 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\Base64Converter.razor"
        
-    public string? Base64Element { get; set; }
-    public string? NonBase64Element { get; set; }
+    private string Base64Element { get; set; }
+    private string NonBase64Element { get; set; }
     
     private void ConvertToBase64()
     {
-        throw new NotImplementedException();
+        var plainText = Encoding.UTF8.GetBytes(NonBase64Element ?? string.Empty);
+        Base64Element = Convert.ToBase64String(plainText);
+
     }
 
     private void ConvertFromBase64()

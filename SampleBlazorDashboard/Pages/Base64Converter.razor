@@ -1,4 +1,5 @@
 ﻿@page "/base64Converter"
+@using System.Text
 
 <h1>Base 64 Converter</h1>
 <div class="form-group">
@@ -20,12 +21,14 @@
 </div>
 
 @code {
-    public string? Base64Element { get; set; }
-    public string? NonBase64Element { get; set; }
+    private string Base64Element { get; set; }
+    private string NonBase64Element { get; set; }
     
     private void ConvertToBase64()
     {
-        throw new NotImplementedException();
+        var plainText = Encoding.UTF8.GetBytes(NonBase64Element ?? string.Empty);
+        Base64Element = Convert.ToBase64String(plainText);
+
     }
 
     private void ConvertFromBase64()
