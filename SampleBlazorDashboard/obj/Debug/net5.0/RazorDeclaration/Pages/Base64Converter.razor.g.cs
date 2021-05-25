@@ -112,7 +112,8 @@ using System.Text;
 
     private void ConvertFromBase64()
     {
-        throw new NotImplementedException();
+        var base64EncodeBytes = Convert.FromBase64String(Base64Element);
+        NonBase64Element = Encoding.UTF8.GetString(base64EncodeBytes);
     }
 
 #line default
