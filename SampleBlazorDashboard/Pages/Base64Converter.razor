@@ -2,23 +2,34 @@
 
 <h1>Base 64 Converter</h1>
 <div class="form-group">
-    <textarea class="form-control col-md-6" placeholder="Non Base64"></textarea>
+    <textarea class="form-control col-md-6" placeholder="Non Base64" @bind-value="NonBase64Element" @bind-value:event="oninput"></textarea>
     <small class="form-text text-muted">This is the value you want to encode as base64</small>
 </div>
 
-<button class="btn btn-primary" type="button">
+<button class="btn btn-primary" type="button" @onclick="ConvertToBase64">
     <span class="oi oi-arrow-thick-bottom"></span> Encode
 </button>
 
-<button class="btn btn-success" type="button">
+<button class="btn btn-success" type="button" @onclick="ConvertFromBase64">
     <span class="oi oi-arrow-thick-top"></span> Decode
 </button>
 
 <div class="form-group mt-4">
-    <textarea class="form-control col-md-6" placeholder="Base64"></textarea>
+    <textarea class="form-control col-md-6" placeholder="Base64" @bind-value="Base64Element" @bind-value:event="oninput"></textarea>
     <small class="form-text text-muted">This is the value you want to encode from base64</small>
 </div>
 
 @code {
+    public string? Base64Element { get; set; }
+    public string? NonBase64Element { get; set; }
     
+    private void ConvertToBase64()
+    {
+        throw new NotImplementedException();
+    }
+
+    private void ConvertFromBase64()
+    {
+        throw new NotImplementedException();
+    }
 }

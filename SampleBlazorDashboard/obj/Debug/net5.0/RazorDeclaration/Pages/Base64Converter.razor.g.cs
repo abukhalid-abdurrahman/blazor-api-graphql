@@ -90,6 +90,25 @@ using SampleBlazorDashboard.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 22 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\Base64Converter.razor"
+       
+    public string? Base64Element { get; set; }
+    public string? NonBase64Element { get; set; }
+    
+    private void ConvertToBase64()
+    {
+        throw new NotImplementedException();
+    }
+
+    private void ConvertFromBase64()
+    {
+        throw new NotImplementedException();
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

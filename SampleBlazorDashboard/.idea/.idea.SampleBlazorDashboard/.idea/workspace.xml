@@ -14,31 +14,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd57c7ff-e560-4b6b-859a-e86bf8112a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pages/Base64Converter.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Base64Converter.razor.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Base64Converter.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Counter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Counter.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleBlazorDashboard.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SampleBlazorDashboard.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Base64Converter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Base64Converter.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Base64Converter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Base64Converter.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Base64Converter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Base64Converter.razor.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorComponent.input.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorComponent.input.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorCoreGenerate.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.TagHelpers.output.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +42,7 @@
       <list>
         <option value="$PROJECT_DIR$/Pages/Counter.razor" />
         <option value="$PROJECT_DIR$/Pages/base64Converter.razor" />
+        <option value="$PROJECT_DIR$/Shared/NavMenu.razor" />
         <option value="$PROJECT_DIR$/Pages/Base64Converter.razor" />
       </list>
     </option>
@@ -112,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621918247143</updated>
-      <workItem from="1621918259419" duration="4293000" />
+      <workItem from="1621918259419" duration="5018000" />
     </task>
     <servers />
   </component>
