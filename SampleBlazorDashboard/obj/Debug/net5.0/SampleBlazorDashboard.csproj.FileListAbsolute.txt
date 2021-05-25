@@ -630,3 +630,5 @@ E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDash
 E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\obj\Debug\net5.0\SampleBlazorDashboard.dll
 E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\obj\Debug\net5.0\ref\SampleBlazorDashboard.dll
 E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\obj\Debug\net5.0\SampleBlazorDashboard.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\obj\Debug\net5.0\RazorDeclaration\Pages\Base64Converter.razor.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\obj\Debug\net5.0\Razor\Pages\Base64Converter.razor.g.cs

@@ -16,6 +16,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Pages" t="Include">
+        <e p="base64Converter.razor" t="Include" />
         <e p="Counter.razor" t="Include" />
         <e p="FetchData.razor" t="Include" />
         <e p="Index.razor" t="Include" />

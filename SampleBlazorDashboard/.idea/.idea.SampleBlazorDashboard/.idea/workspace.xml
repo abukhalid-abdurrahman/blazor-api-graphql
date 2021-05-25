@@ -14,20 +14,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd57c7ff-e560-4b6b-859a-e86bf8112a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet.5.0.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/SampleBlazorDashboard.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/SampleBlazorDashboard.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/SampleBlazorDashboard.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Base64Converter.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Base64Converter.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Base64Converter.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Counter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Counter.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleBlazorDashboard.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SampleBlazorDashboard.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorComponent.input.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorComponent.input.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.TagHelpers.output.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Pages/Counter.razor" />
+        <option value="$PROJECT_DIR$/Pages/base64Converter.razor" />
+        <option value="$PROJECT_DIR$/Pages/Base64Converter.razor" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1t0uIJ3fR5Bc9iGm58EEzfj8bgO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -49,6 +69,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.SampleBlazorDashboard">
@@ -91,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621918247143</updated>
-      <workItem from="1621918259419" duration="657000" />
+      <workItem from="1621918259419" duration="4293000" />
     </task>
     <servers />
   </component>

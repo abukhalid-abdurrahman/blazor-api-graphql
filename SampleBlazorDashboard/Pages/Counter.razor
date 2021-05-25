@@ -5,13 +5,23 @@
 <p>Current count: @currentCount</p>
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="IncrementNegativeCount">Negative click me</button>
+
 
 @code {
     private int currentCount = 0;
 
     private void IncrementCount()
     {
+        if(currentCount >= 100)
+            return;
         currentCount++;
     }
-
+    
+    private void IncrementNegativeCount()
+    {
+        if(currentCount <= 0)
+            return;
+        currentCount--;
+    }
 }
