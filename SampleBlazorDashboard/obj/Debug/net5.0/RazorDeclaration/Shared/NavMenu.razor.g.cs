@@ -101,6 +101,7 @@ using SampleBlazorDashboard.Shared;
         collapseNavMenu = !collapseNavMenu;
     }
 
+
 #line default
 #line hidden
 #nullable disable

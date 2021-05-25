@@ -91,7 +91,7 @@ using SampleBlazorDashboard.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
+#line 39 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 
@@ -108,8 +108,9 @@ using SampleBlazorDashboard.Shared;
 
         public string Summary { get; set; }
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public int TemperatureF => 32 + (int) (TemperatureC / 0.5556);
     }
+
 
 #line default
 #line hidden
