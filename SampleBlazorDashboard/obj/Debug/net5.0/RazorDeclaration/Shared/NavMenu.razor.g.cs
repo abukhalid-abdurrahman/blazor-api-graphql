@@ -90,7 +90,7 @@ using SampleBlazorDashboard.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Shared\NavMenu.razor"
+#line 33 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
