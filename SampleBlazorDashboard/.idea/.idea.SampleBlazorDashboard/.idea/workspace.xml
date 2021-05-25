@@ -15,7 +15,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd57c7ff-e560-4b6b-859a-e86bf8112a08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Pages/Base64Converter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Base64Converter.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/_Imports.razor" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,8 @@
         <option value="$PROJECT_DIR$/Pages/Counter.razor" />
         <option value="$PROJECT_DIR$/Pages/base64Converter.razor" />
         <option value="$PROJECT_DIR$/Shared/NavMenu.razor" />
-        <option value="$PROJECT_DIR$/Pages/Base64Converter.razor" />
         <option value="$PROJECT_DIR$/_Imports.razor" />
+        <option value="$PROJECT_DIR$/Pages/Base64Converter.razor" />
       </list>
     </option>
   </component>
@@ -91,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621918247143</updated>
-      <workItem from="1621918259419" duration="5643000" />
+      <workItem from="1621918259419" duration="6044000" />
     </task>
     <servers />
   </component>

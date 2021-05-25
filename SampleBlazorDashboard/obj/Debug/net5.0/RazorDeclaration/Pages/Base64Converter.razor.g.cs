@@ -112,7 +112,9 @@ using SampleBlazorDashboard.Shared;
 
     private void ConvertFromBase64()
     {
-        var base64EncodeBytes = Convert.FromBase64String(Base64Element);
+        var base64EncodeBytes = Convert.FromBase64String(Base64Element ?? string.Empty);
+        if(base64EncodeBytes.Length <= 0)
+            return;
         NonBase64Element = Encoding.UTF8.GetString(base64EncodeBytes);
     }
 
