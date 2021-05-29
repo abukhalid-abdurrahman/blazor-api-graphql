@@ -14,7 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd57c7ff-e560-4b6b-859a-e86bf8112a08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Pages/Base64Converter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Base64Converter.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DTOs/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,8 @@
         <option value="$PROJECT_DIR$/Shared/NavMenu.razor" />
         <option value="$PROJECT_DIR$/_Imports.razor" />
         <option value="$PROJECT_DIR$/Pages/Base64Converter.razor" />
+        <option value="$PROJECT_DIR$/DTOs/Launch.cs" />
+        <option value="$PROJECT_DIR$/DTOs/Person.cs" />
       </list>
     </option>
   </component>
@@ -90,14 +94,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621918247143</updated>
-      <workItem from="1621918259419" duration="6044000" />
+      <workItem from="1621918259419" duration="6667000" />
+      <workItem from="1622297138567" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -109,6 +114,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
