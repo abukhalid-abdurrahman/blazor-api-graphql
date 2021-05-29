@@ -14,9 +14,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd57c7ff-e560-4b6b-859a-e86bf8112a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DTOs/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorDashboard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/FetchData.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/FetchData.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/RazorDeclaration/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/SampleBlazorDashboard.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/SampleBlazorDashboard.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +50,7 @@
         <option value="$PROJECT_DIR$/Pages/Base64Converter.razor" />
         <option value="$PROJECT_DIR$/DTOs/Launch.cs" />
         <option value="$PROJECT_DIR$/DTOs/Person.cs" />
+        <option value="$PROJECT_DIR$/Pages/FetchData.razor" />
       </list>
     </option>
   </component>
@@ -95,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621918247143</updated>
       <workItem from="1621918259419" duration="6667000" />
-      <workItem from="1622297138567" duration="1780000" />
+      <workItem from="1622297138567" duration="3166000" />
     </task>
     <servers />
   </component>
@@ -119,5 +134,23 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1559" height="226" key="GridCell.Tab.0.bottom" timestamp="1622300600917">
+      <screen x="-1920" y="0" width="1603" height="873" />
+    </state>
+    <state width="1559" height="226" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1622300600917" />
+    <state width="1559" height="226" key="GridCell.Tab.0.center" timestamp="1622300600917">
+      <screen x="-1920" y="0" width="1603" height="873" />
+    </state>
+    <state width="1559" height="226" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1622300600917" />
+    <state width="1559" height="226" key="GridCell.Tab.0.left" timestamp="1622300600917">
+      <screen x="-1920" y="0" width="1603" height="873" />
+    </state>
+    <state width="1559" height="226" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1622300600917" />
+    <state width="1559" height="226" key="GridCell.Tab.0.right" timestamp="1622300600917">
+      <screen x="-1920" y="0" width="1603" height="873" />
+    </state>
+    <state width="1559" height="226" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1622300600917" />
   </component>
 </project>

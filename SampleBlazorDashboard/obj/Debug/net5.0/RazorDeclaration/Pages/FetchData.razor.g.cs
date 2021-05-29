@@ -89,6 +89,13 @@ using SampleBlazorDashboard.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
+using SampleBlazorDashboard.DTOs;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -98,26 +105,19 @@ using SampleBlazorDashboard.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
+#line 38 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
        
-    private WeatherForecast[] forecasts;
+    private Person[] _persons;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        _persons = new Person[]
+        {
+            new Person() { Name = "Faridun", Surname = "Berdiev" }, 
+            new Person() { Name = "Sorbon", Surname = "Rashidov" }, 
+            new Person() { Name = "Abubakr", Surname = "Nazirmadov" }, 
+        };
     }
-
-    public class WeatherForecast
-    {
-        public DateTime Date { get; set; }
-
-        public int TemperatureC { get; set; }
-
-        public string Summary { get; set; }
-
-        public int TemperatureF => 32 + (int) (TemperatureC / 0.5556);
-    }
-
 
 #line default
 #line hidden
