@@ -7,6 +7,10 @@
       <e p="_Imports.razor" t="Include" />
       <e p="App.razor" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
+      <e p="DataService" t="Include">
+        <e p="DbService.cs" t="Include" />
+        <e p="IDataService.cs" t="Include" />
+      </e>
       <e p="DTOs" t="Include">
         <e p="Person.cs" t="Include" />
       </e>
@@ -21,6 +25,7 @@
       <e p="Pages" t="Include">
         <e p="base64Converter.razor" t="Include" />
         <e p="Counter.razor" t="Include" />
+        <e p="FetchData.cs" t="Include" />
         <e p="FetchData.razor" t="Include" />
         <e p="Index.razor" t="Include" />
       </e>
