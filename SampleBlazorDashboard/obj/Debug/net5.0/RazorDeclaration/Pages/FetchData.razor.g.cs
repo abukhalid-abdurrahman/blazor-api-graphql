@@ -89,13 +89,6 @@ using SampleBlazorDashboard.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
-using SampleBlazorDashboard.DTOs;
-
-#line default
-#line hidden
-#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -104,27 +97,6 @@ using SampleBlazorDashboard.DTOs;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 38 "E:\Faridun's Projects\Faridun's\Back-End\Blazor\SampleDashboard\SampleBlazorDashboard\Pages\FetchData.razor"
-       
-    private Person[] _persons;
-
-    protected override async Task OnInitializedAsync()
-    {
-        _persons = new Person[]
-        {
-            new Person() { Name = "Faridun", Surname = "Berdiev" }, 
-            new Person() { Name = "Sorbon", Surname = "Rashidov" }, 
-            new Person() { Name = "Abubakr", Surname = "Nazirmadov" }, 
-            new Person() { Name = "Faridun", Surname = "Berdiev" }, 
-            new Person() { Name = "Sorbon", Surname = "Rashidov" }, 
-            new Person() { Name = "Abubakr", Surname = "Nazirmadov" }
-        };
-    }
-
-#line default
-#line hidden
-#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
